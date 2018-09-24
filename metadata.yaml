@@ -1,0 +1,32 @@
+_repo: Cabezas-Pensadores-y-Artistas-Politicos-Obras-Completas-Vol-XXII_56047
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Darío, Rubén
+    aliases:
+    - García Sarmiento, Félix Rubén
+    - Sarmiento, Félix Rubén García
+    - Sarmiento, Felix Ruben Garcia
+    - Dario, Ruben
+    birthdate: 1867
+    deathdate: 1916
+    gutenberg_agent_id: '31590'
+    url: http://www.gutenberg.org/2009/agents/31590
+    wikipedia: http://en.wikipedia.org/wiki/Rub%C3%A9n_Dar%C3%ADo
+description: ''
+gutenberg_issued: '2017-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56047'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- Biography'
+- !lcc 'PQ'
+- !lcsh 'Latin America -- Biography'
+- !lcsh 'Authors, Latin American -- Biography'
+- GITenberg
+title: "Cabezas: Pensadores y Artistas, Políticos\r\nObras Completas Vol. XXII"
+url: http://www.gutenberg.org/ebooks/56047
